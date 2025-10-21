@@ -4,6 +4,8 @@ int main(){
     int n;
     unsigned long long factorial = 1;
 
+    int tambahVariable;
+
     printf("Enter a positive integer: ");
     scanf("%d", &n);
 
